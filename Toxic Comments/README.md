@@ -1,2 +1,3 @@
  - Comparison of different Neural Nets. arch using toxic comment data from kaggle
  - https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge
+ - Data can be obtained from kaggle
